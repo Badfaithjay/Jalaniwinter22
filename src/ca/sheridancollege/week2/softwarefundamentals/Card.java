@@ -23,6 +23,7 @@ public class Card
      */
     public Card(String givenSuit, int givenValue)
     {
+        //adding comments
         suit = givenSuit;
         value = givenValue;
     }

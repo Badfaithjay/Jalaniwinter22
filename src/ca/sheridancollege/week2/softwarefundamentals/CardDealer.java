@@ -11,6 +11,7 @@ package ca.sheridancollege.week2.softwarefundamentals;
  */
 public class CardDealer 
 {
+    //adding comments
     public static void main(String[] args)
     {
         Card nineClubs = new Card("Clbs", 9);
