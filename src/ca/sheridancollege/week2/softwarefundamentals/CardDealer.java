@@ -14,9 +14,11 @@ public class CardDealer
     public static void main(String[] args)
     {
         CardDealer crd = new CardDealer();
+         CardDealer crd1 = new CardDealer();
+
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
-     System.out.println(nineClubs);
+        System.out.println(nineClubs);
      
         
     }
